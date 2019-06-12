@@ -1,0 +1,197 @@
+<resources>
+    <string name="app_name">Tranquil</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Tranquil</string>
+    <string name="nav_header_subtitle">Stress Management System</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="detect_my_stress">Detect Your Stress</string>
+    <string name="manage_my_stress">Manage Your Stress</string>
+    <string name="about_stress">
+   \n
+        <b> What is Stress? </b>
+        \n
+         \n Stress is a feeling of emotional or physical tension.
+            It can come from any event or thought that makes
+            you feel frustrated, angry, or nervous. Stress is your
+            body\'s reaction to a challenge or demand. In
+            short bursts, stress can be positive, such as when it
+            helps you avoid danger or meet a deadline.
+
+
+        \n
+
+        \n
+        <b> Types of Stress </b>
+        \n
+            \n 1. Acute stress
+        \n Acute stress is the most common type of stress.
+        It\'s your body\'s immediate reaction to
+        a new challenge, event, or demand, and it triggers your
+        fight-or-flight response. As the pressures of  a near-
+        miss automobile accident, an argument with a family
+        member, or a costly mistake at work sink in, your body
+        turns on this biological response.
+        \n
+         \n
+        \n
+        2. Episodic acute stress
+        \n When acute stress happens frequently, it\'s
+        called episodic acute stress. People who always seem
+        to be having a crisis tend to have episodic acute stress.
+        They are often short-tempered, irritable, and anxious.
+        \n
+         \n
+        \n
+        3. Chronic stress
+        \n If acute stress isn\'t resolved and begins to
+        increase or lasts for long periods of time, it becomes
+        chronic stress. This stress is constant and doesn\'t
+        go away. It can stem from such things as:
+        \n
+        \n poverty
+        \n a dysfunctional family
+        \n an unhappy marriage
+        \n a bad job
+        \n
+
+        \n
+        \n
+        \n
+
+
+        \n
+        <b>Effect of Stress</b>
+        \n
+        \n Depression and anxiety
+        \n Pain of any kind
+        \n Sleep problems
+        \n Autoimmune diseases
+        \n Digestive problems
+        \n Skin conditions, such as eczema
+        \n Heart disease
+        \n Weight problems
+        \n Reproductive issues
+        \n Thinking and memory problems
+        \n
+
+        \n
+        <b>Symptoms</b>
+        \n
+        \n Cognitive symptoms:
+        \n
+        \n Memory problems
+        \n Inability to concentrate
+        \n Poor judgment
+        \n Seeing only the negative
+        \n Anxious or racing thoughts
+        \n Constant worrying
+        \n
+        \n
+        Emotional symptoms:
+        \n
+        \n Depression or general unhappiness
+        \n Anxiety and agitation
+        \n Moodiness, irritability, or anger
+        \n Feeling overwhelmed
+        \n Loneliness and isolation
+        \n Other mental or emotional health problems
+        \n
+        \n
+        Physical symptoms:
+        \n
+        \n Aches and pains
+        \n Diarrhea or constipation
+        \n Nausea, dizziness
+        \n Chest pain, rapid heart rate
+        \n Frequent colds or flu
+        \n
+        \n
+        \n Behavioral symptoms:
+        \n
+        \n Eating more or less
+        \n Sleeping too much or too little
+        \n Withdrawing from others
+        \n Procrastinating or neglecting responsibilities
+        \n Using alcohol, cigarettes, or drugs to relax
+        \n Nervous habits (e.g. nail biting, pacing)
+        \n
+        \n
+
+        \n
+        <b>Causes of Stress:</b>
+        \n
+        \n
+        Common external causes of stress include:
+        \n
+        \n Major life changes
+        \n Work or school
+        \n Relationship difficulties
+        \n Financial problems
+        \n Being too busy
+        \n Children and family
+        \n
+        \n Common internal causes of stress include:
+        \n
+        \n Pessimism
+        \n Inability to accept uncertainty
+        \n Rigid thinking, lack of flexibility
+        \n Negative self-talk
+        \n Unrealistic expectations / perfectionism
+        \n All-or-nothing attitude
+        \n
+
+        \n
+        <b>Is all stress bad?</b>
+        \n
+        \n
+        Not all stress is bad. In fact, some stress heightens
+        your senses, helping you to avoid accidents, power
+        through unexpected deadlines, or stay clear-minded
+        in chaotic situations. This is the &quot;fight-or-flight&quot;
+        Response that your body triggers in times of duress.
+        \n But stress is meant to be temporary. Your body
+        should return to a natural state after the situation has
+        passed. Your heart rate should slow, your muscles
+        should relax, and your breathing should return to
+        normal.
+        \n The pressures and demands of modern life may
+        put your body in a heightened state for a long period
+        of time, making your heart pump hard and your blood
+        vessels constrict for longer than your body can handle.
+        Over time, these physiological demands can take a
+        toll on your body.
+        \n
+
+        \n
+        <b>Seek for Help</b>
+        \n
+        \n
+        \n TPO Nepal
+        \n http://tponepal.org/
+        \n Head Office. Baluwatar, Kathmandu, Nepal;
+        \n G.P.O Box 8974/C.P.C. Box 612;
+        \n +977-01-4431717/4437124/4424082;
+        \n tponepal@tponepal.org.np
+        \n
+        \n CMC Nepal
+        \n https://www.cmcnepal.org.np
+        \n Jitjung Marg, Thapathali, Kathmandu, Nepal;
+        \n +977 01 4102037, 4226041;
+        \n +977 01 4102038 (Fax);
+
+        \n cmcnepal@mos.com.np
+        \n
+        \n
+        \n
+        \n
+    </string>
+    <string name="analysis">Analysis</string>
+    <string name="reminder">Reminder</string>
+    <string name="calendar">Calendar</string>
+    <string name="aboutstress">About Stress</string>
+    <string name="title_activity_inspiring_quotes">InspiringQuotes</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_stress">stress</string>
+</resources>

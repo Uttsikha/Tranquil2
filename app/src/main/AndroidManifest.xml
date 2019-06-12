@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tranquil">
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <service
+            android:name=".Alarm.AlarmService"
+            android:enabled="true" />
+
+        <receiver android:name=".Alarm.AlarmReciever" />
+
+        <activity
+            android:name=".activity.Management.iq"
+            android:parentActivityName=".activity.management" />
+        <activity
+            android:name=".activity.Management.Music"
+            android:parentActivityName=".activity.management" />
+        <activity
+            android:name=".activity.Management.Exercise"
+            android:parentActivityName=".activity.management" />
+        <activity
+            android:name=".activity.Management.Yoga"
+            android:parentActivityName=".activity.management" />
+        <activity
+            android:name=".activity.Management.Mantra"
+            android:parentActivityName=".activity.management" />
+        <activity
+            android:name=".activity.Management.Meditate"
+            android:parentActivityName=".activity.management" />
+        <activity
+            android:name=".activity.Management.Breathe"
+            android:parentActivityName=".activity.management" />
+        <activity
+            android:name=".activity.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.Analysis"
+            android:label="Analysis"
+            android:parentActivityName=".activity.MainActivity" />
+        <activity
+            android:name=".activity.management"
+            android:label="Management"
+            android:parentActivityName=".activity.MainActivity" />
+        <activity
+            android:name=".activity.AboutStress"
+            android:label="About Stress"
+            android:parentActivityName=".activity.MainActivity" />
+        <activity
+            android:name=".activity.calendar"
+            android:label="Calendar"
+            android:parentActivityName=".activity.MainActivity" />
+        <activity
+            android:name=".activity.Reminder"
+            android:label="Reminder"
+            android:parentActivityName=".activity.MainActivity" />
+        <activity
+            android:name=".activity.Detection"
+            android:label="Detection"
+            android:parentActivityName=".activity.MainActivity" />
+    </application>
+
+</manifest>
